@@ -1,0 +1,42 @@
+baseURL = "https://www.syam.work/"
+title = "Work"
+ignoreErrors = ["error-remote-getjson"]
+
+[Params]
+  description = "Syam's Portfolio!"
+  [Params.Terminal]
+  schema = "monokai"
+
+  userName = "syam"
+  pcName = "macbookpro"
+  workDir = "work"
+  profile = "me.txt"
+
+  ps1Delay = 0 # prompt speed : [userName]@[pcName]:~/$ , [userName]@[pcName]:~/[workDir]$
+  stdoutDelay = 0 # stdout speed : [description] , files in Params.Tree
+  commandDelay = 10 # command speed : cd [workDir] , cat [profile] , tree ./[folderName]/
+
+  titleDelay = 0 # title speed : "title" in front matter
+  contentDelay = 0 # content speed : content in .md file
+
+  description = """
+  Hey I'm Syam
+  a product focused tech guy
+  
+  """
+
+  [Params.Tree]
+  use = true
+  folderName = "work"
+  # Note: ["ACTIVITY", "URL or PATH TO YOUR MARKDOWN FILE"]
+  files = [ 
+    ["furlenco", "/furlenco.md"],
+    ["gsod'20", "/gsod20.md"],
+    ["gsoc'19", "/gsoc19.md"],
+    ["gsoc'18", "/gsoc18.md"]
+  ]
+
+[module]
+  [module.hugoVersion]
+    extended = true
+    min = "0.85.0"
