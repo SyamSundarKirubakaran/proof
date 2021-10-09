@@ -28,5 +28,5 @@ I do follow cricket closely. Here is my list of picks,
 
 
 ## Video Games
-- It's been a long time since I played a video game to be honest. I did play a lot during my school and college days though. I also did spend a lot of time learning and creating 3D game using Unreal Engine 3 and kismet coding. I prefer single player campaign over multiple player games.
+- It's been a long time since I played a video game to be honest. I did play a lot during my school and college days though. I also did spend a lot of time learning and creating 3D game using Unreal Engine 3. I prefer single player campaign over multiple player games.
 
