@@ -2,6 +2,8 @@
 title: "Google Summer of Code 2018"
 ---
 
+![alt text](../../assets/gsoc18.png)
+
 ### Organization: [Processing Foundation](https://processing.org/)
 
 ### Project: ARCore Renderer for Processing - Android.
@@ -12,4 +14,9 @@ title: "Google Summer of Code 2018"
 - Learn about this project here: [AR Renderer Walkthrough](https://android.processing.org/tutorials/ar_intro/index.html)
 
 - Mentor: [Andres Colubri](https://www.linkedin.com/in/andres-colubri-2268479/), Research Associate @ Harvard University.
+
+
+- Sample App created with the Processing AR Renderer:
+
+![alt text](../../assets/ar_objects.png)
 

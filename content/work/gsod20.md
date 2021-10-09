@@ -2,6 +2,8 @@
 title: "Google Season of Docs 2020"
 ---
 
+![alt text](../../assets/sig_cli_site.png)
+
 ### Organization: [Cloud Native Computing Foundation - Kubernetes](https://www.cncf.io/)
 
 ### Project: New SIG CLI Docs
@@ -14,4 +16,6 @@ title: "Google Season of Docs 2020"
 - Project Report: [GSoD Website](https://developers.google.com/season-of-docs/docs/2020/participants/project-cncf-syamsundark)
 
 - Mentor: [Phillip Wittrock](https://www.linkedin.com/in/phillipwittrock/), Software Engineer @ Apple.
+
+![alt text](../../assets/contributor_award_gsod.jpg)
 

@@ -33,6 +33,11 @@ title: "Furlenco"
 - [R&D prototyping with AR](https://tech.furlenco.com/using-android-native-animators-interpolators-on-3d-objects-ed5e755b8d20)
 
 
+### People
+
+![alt text](../../assets/furlenco_people.jpeg)
+
+
 ### Ref
 - ¹Customer Facing App which has 1M+ downloads
 - ²App for Inventory & Asset Management

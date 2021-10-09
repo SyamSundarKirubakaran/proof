@@ -2,6 +2,8 @@
 title: "Google Summer of Code 2019"
 ---
 
+![alt text](../../assets/statusBar.png)
+
 ### Organization: [Processing Foundation](https://processing.org/)
 
 ### Project: ARCore Renderer for Processing - Android.
@@ -13,3 +15,5 @@ title: "Google Summer of Code 2019"
 
 - Mentor: [Manindra Moharana](https://www.linkedin.com/in/mkmoharana/), Software Engineer @ SnapChat.
 
+
+![alt text](../../assets/prenote.png)
