@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Work</title>
+    <link>https://www.syam.work/</link>
+    <description>Recent content on Work</description>
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://www.syam.work/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Furlenco</title>
+      <link>https://www.syam.work/furlenco/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.syam.work/furlenco/</guid>
+      <description>furlenco.com
+Senior Software Engineer (early 2020 - present)   Product Owner: Furlenco App¹ &amp;amp; Warehouse app².
+  Involved in every stage of feature development starting from planning to release.
+  Software Engineer (mid 2019 - late 2020)   Code owner and Maintainer: Furlenco App, Last-Mile app³ &amp;amp; Warehouse app.
+  Built Warehouse App from scratch that reduces asset unloading time for every truck from over an hour to &amp;lt; 20 mins - which works even when offline.</description>
+    </item>
+    
+    <item>
+      <title>Google Season of Docs 2020</title>
+      <link>https://www.syam.work/gsod20/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.syam.work/gsod20/</guid>
+      <description>Organization: Cloud Native Computing Foundation - Kubernetes Project: New SIG CLI Docs   Built a Centralized SIG CLI docs housing Kubectl and Kustomize features.
+  Won Kubernetes Contributor of the year award 2020 from SIG CLI team for my work during this period.
+  Outcome: kubectl.docs.kubernetes.io, gets ~250,000 page views every month.
+  Project Report: GSoD Website
+  Mentor: Phillip Wittrock, Software Engineer @ Apple.</description>
+    </item>
+    
+    <item>
+      <title>Google Summer of Code 2018</title>
+      <link>https://www.syam.work/gsoc18/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.syam.work/gsoc18/</guid>
+      <description>Organization: Processing Foundation Project: ARCore Renderer for Processing - Android.   Developed an AR renderer that uses OpenGLES to render virtual objects over real-time camera Image. This renderer is now a part of Processing - Android&amp;rsquo;s Core Library.
+  Project Report: Processing AR Renderer
+  Learn about this project here: AR Renderer Walkthrough
+  Mentor: Andres Colubri, Research Associate @ Harvard University.
+  </description>
+    </item>
+    
+    <item>
+      <title>Google Summer of Code 2019</title>
+      <link>https://www.syam.work/gsoc19/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.syam.work/gsoc19/</guid>
+      <description>Organization: Processing Foundation Project: ARCore Renderer for Processing - Android.   Provides rich IDE features such as Autocompletion, Code Diagnostics, Goto Definition and so on, which can be extended to any general-purpose editors like Atom, VSCode, etc.
+  Project Report: Processing Language Server
+  Get code here: LS4P
+  Mentor: Manindra Moharana, Software Engineer @ SnapChat.
+  </description>
+    </item>
+    
+  </channel>
+</rss>
