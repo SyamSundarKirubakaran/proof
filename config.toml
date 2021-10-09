@@ -1,5 +1,5 @@
 baseURL = "https://www.syam.work/"
-title = "Work"
+title = "syam.work"
 ignoreErrors = ["error-remote-getjson"]
 
 [Params]
@@ -9,7 +9,7 @@ ignoreErrors = ["error-remote-getjson"]
 
   userName = "syam"
   pcName = "macbookpro"
-  workDir = "work"
+  workDir = "works"
   profile = "me.txt"
 
   ps1Delay = 0 # prompt speed : [userName]@[pcName]:~/$ , [userName]@[pcName]:~/[workDir]$
@@ -27,13 +27,13 @@ ignoreErrors = ["error-remote-getjson"]
 
   [Params.Tree]
   use = true
-  folderName = "work"
+  folderName = "works"
   # Note: ["ACTIVITY", "URL or PATH TO YOUR MARKDOWN FILE"]
   files = [ 
-    ["furlenco", "/furlenco.md"],
-    ["gsod'20", "/gsod20.md"],
-    ["gsoc'19", "/gsoc19.md"],
-    ["gsoc'18", "/gsoc18.md"]
+    ["furlenco", "/work/furlenco.md"],
+    ["gsod'20", "/work/gsod20.md"],
+    ["gsoc'19", "/work/gsoc19.md"],
+    ["gsoc'18", "/work/gsoc18.md"]
   ]
 
 [module]

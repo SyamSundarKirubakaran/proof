@@ -1,7 +1,10 @@
 ---
 title: "Furlenco"
 ---
-[furlenco.com](https://www.furlenco.com/bengaluru)
+
+![alt text](../../assets/furlenco_10_years.jpg)
+
+[furlenco.com](https://www.furlenco.com/bengaluru) (House of Kieraya)
 
 ### Senior Software Engineer (early 2020 - present)
 
