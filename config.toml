@@ -35,8 +35,8 @@ ignoreErrors = ["error-remote-getjson"]
     ["work:gsoc'19", "/work/gsoc19.md"],
     ["work:gsoc'18", "/work/gsoc18.md"],
     ["personal:computers", "/personal/computers.md"],
-    ["personal:friends", "/personal/friends.md"],
-    ["personal:entertainment", "/personal/entertainment.md"],
+    ["personal:interests", "/personal/interests.md"],
+    ["personal:movies_sports", "/personal/movies_sports.md"],
   ]
 
 [module]

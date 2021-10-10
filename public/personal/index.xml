@@ -6,6 +6,15 @@
     <description>Recent content in Personals on syam.work</description>
     <generator>Hugo -- gohugo.io</generator><atom:link href="https://www.syam.work/personal/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Arts</title>
+      <link>https://www.syam.work/personal/arts/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.syam.work/personal/arts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Friends</title>
       <link>https://www.syam.work/personal/friends/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -20,20 +29,38 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://www.syam.work/personal/computers/</guid>
-      <description>The Beginnings   I first got access to a computer in late 90&amp;rsquo;s when I was 3 years old. It was a different scene then. CRT monitors, dot matrix printers, floppy discs. It was also the time when GUI was rapid gaining popularity and I particularly remember the first operating system that I ever used was MS DOS.
+      <description>The Beginnings   I first got access to a computer in late 90s when I was 3 years old. It was a different scene then. CRT monitors, dot matrix printers, floppy discs. It was also the time when GUI was rapid gaining popularity and I particularly remember the first operating system that I ever used was MS DOS.
   Computers were also so expensive back then, luckily my mom was a biology professor in the school where I studied, who had access to these computers.</description>
     </item>
     
     <item>
-      <title>Media &amp; Sports</title>
-      <link>https://www.syam.work/personal/entertainment/</link>
+      <title>Interests</title>
+      <link>https://www.syam.work/personal/interests/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.syam.work/personal/entertainment/</guid>
+      <guid>https://www.syam.work/personal/interests/</guid>
+      <description>Elocution  I love public speaking and giving seminars - there is something special to have a group of people listen to what you say.   Addressing the assembly (High School)^   Voice over artist (College)^  Competitions &amp;amp; Meetups  Competitions and Meetups are a great place to get in touch with people who have similar interests and hobbies. I did make a few friends doing this.   Apple Office BLR: ARKit walkthrough^   App Dev competition - Mercedez Benz / Daimler^  </description>
+    </item>
+    
+    <item>
+      <title>Movies &amp; Sports</title>
+      <link>https://www.syam.work/personal/movies_sports/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.syam.work/personal/movies_sports/</guid>
       <description>Favorite Movie: Whiplash  Talks about how hard you should train to be the best at something.  Favorite TV series: Silicon Valley   This should be obvious as I&amp;rsquo;m a tech guy.
   Favorite character: Bertram Gilfoyle, Systems Engineer.
   Favorite quote: &amp;ldquo;We are addressing problems that don&amp;rsquo;t exists and solutionism at it&amp;rsquo;s worst. We are dumbing down machines that are inherently superior.&amp;rdquo;
-  Cricket I do follow cricket closely.</description>
+  Cricket I do follow cricket closely and I do play cricket sometimes.</description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>https://www.syam.work/personal/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.syam.work/personal/projects/</guid>
+      <description></description>
     </item>
     
   </channel>

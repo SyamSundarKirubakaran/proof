@@ -5,11 +5,11 @@ title: "Growing up alongside computers"
 ![alt text](../../assets/computer.jpeg)
 
 ### The Beginnings
-- I first got access to a computer in late 90's when I was 3 years old. It was a different scene then. 
+- I first got access to a computer in late 90s when I was 3 years old. It was a different scene then. 
 CRT monitors, dot matrix printers, floppy discs. It was also the time when GUI was rapid gaining popularity and I
 particularly remember the first operating system that I ever used was MS DOS.
 
-- Computers were also so expensive back then, luckily my mom was a biology professor in the school where I studied, who had access to these computers. I use to sneek-in with her access ID. Good times!
+- Computers were also so expensive back then, luckily my mom was a biology professor in the school where I studied, who had access to these computers. I use to sneek-in with her credentials. Good times!
 
 
 ### Man in the Middle
@@ -24,7 +24,9 @@ particularly remember the first operating system that I ever used was MS DOS.
 - I built the game in Unreal Enginer 3 (UDK), I started off with modelling and importing game assets, planning and wiring up legal player interactions, etc. Until this point I was using kismet (a flow chart like tool wherein you can apply conditions on how game should behave) - but this had serious limitations, I was not able to dynamically alter spawn points / player starts and path nodes of recently respawned players. Dwelving deep into fix this, led to OOPS concepts - as most of the entites in the game are considered as objects and instances. Then it eventually led to learning Cpp and others.
 
 ### Dawn of something big
-- No matter how far we've come, there is still a long way to go. Same applies to computers, I'm really excited about what new developments in computers and tech-in-general holds for us. Either be AI, AR / VR, Robots - I'm excited for'em all. This journy has not come to an end, I'm still learning and growing like a machine learning model ;). Will keep you posted!
+- Computers have evolved massively since then, we literally have 200x compute power in our pockets compared to what we had in PC in late 90s. We have cloud compute, smart phones, g-suite and so on - things that I never imagined would come into existance.
+
+- No matter how far we've come, there is still a long way to go. Same applies to computers, I'm really excited about what new developments in computers and tech-in-general holds for us. Either be AI, AR / VR, Robots - I'm excited for'em all. This journy has not come to an end, I'm still learning and growing like a machine learning model. Will keep you posted!
 
 To be continued...
 

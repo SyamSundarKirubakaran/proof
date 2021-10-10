@@ -2,6 +2,8 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://www.syam.work/personal/arts/</loc>
+  </url><url>
     <loc>https://www.syam.work/categories/</loc>
   </url><url>
     <loc>https://www.syam.work/personal/friends/</loc>
@@ -16,9 +18,13 @@
   </url><url>
     <loc>https://www.syam.work/personal/computers/</loc>
   </url><url>
-    <loc>https://www.syam.work/personal/entertainment/</loc>
+    <loc>https://www.syam.work/personal/interests/</loc>
+  </url><url>
+    <loc>https://www.syam.work/personal/movies_sports/</loc>
   </url><url>
     <loc>https://www.syam.work/personal/</loc>
+  </url><url>
+    <loc>https://www.syam.work/personal/projects/</loc>
   </url><url>
     <loc>https://www.syam.work/</loc>
   </url><url>
