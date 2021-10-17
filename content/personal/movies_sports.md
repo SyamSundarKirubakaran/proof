@@ -5,6 +5,8 @@ title: "Movies & Sports"
 ## Favorite Movie: [Whiplash](https://en.wikipedia.org/wiki/Whiplash_(2014_film))
 - Talks about how hard you should train to be the best at something.
 
+- Favorite quote: "There are no two words in the english language more harmful than `Good Job`"
+
 ## Favorite TV series: [Silicon Valley](https://en.wikipedia.org/wiki/Silicon_Valley_(TV_series))
 - This should be obvious as I'm a tech guy. 
 
